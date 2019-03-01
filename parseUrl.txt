@@ -1,6 +1,6 @@
 1.url(http://jx.biaoge.tv/index.php)
 2.url(http://api.baiyug.vip/index.php)
-3.url(http://jx.anlehe.com)
+3.url(http://bofang.online)
 
 其它信息：
 
@@ -20,4 +20,6 @@ http://jx.biaoge.tv/index.php
 http://api.baiyug.vip/index.php
 
 alert(elements[0].innerHTML);
+
+https://blog.csdn.net/c327044572/article/details/80013316
 
