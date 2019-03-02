@@ -1,4 +1,4 @@
-1.url(1)
+1.url(http://jx.biaoge.tv/index.php)
 2.url(http://api.baiyug.vip/index.php)
 3.url(http://jx.anlehe.com)
 
