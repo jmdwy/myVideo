@@ -45,7 +45,7 @@
     }
 
     #header {
-        background:url('/static/images/template/colorful/top_bg_middle.png') no-repeat scroll top center;
+        background:url('./images/top_bg_middle.png') no-repeat scroll top center;
         /*background-size:100% auto;*/
         height:260px;
     }
@@ -98,7 +98,7 @@
     }
     @media (min-width: 1200px) {
         #header {
-            background:url('/static/images/template/colorful/top_bg.png') no-repeat scroll top center;
+            background:url('./images/top_bg.png') no-repeat scroll top center;
             height:300px;
         }
         .qrcode {
@@ -108,7 +108,7 @@
     }
     @media (max-width: 770px) {
         #header {
-            background:url('/static/images/template/colorful/top_bg_mobile.png') no-repeat scroll top center;
+            background:url('./images/top_bg_mobile.png') no-repeat scroll top center;
             /*background-size:100% auto;*/
             height:200px;
         }
@@ -118,14 +118,14 @@
     @media screen and (-webkit-min-device-pixel-ratio: 2), 
     screen and (max--moz-device-pixel-ratio: 2) {
         #header {
-            background:url('/static/images/template/colorful/top_bg_mobile_ratio.png') no-repeat scroll top center;
+            background:url('./images/top_bg_mobile_ratio.png') no-repeat scroll top center;
            background-size:100% auto;
             height:200px;
         }
     }
 
     #appicon-bg {
-        background:url('/static/images/template/colorful/app_bg.png') no-repeat scroll top center;
+        background:url('./images/app_bg.png') no-repeat scroll top center;
         width: 160px;
         height: 160px;
         background-size:100% auto;
