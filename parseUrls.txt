@@ -1,5 +1,5 @@
-1.url(http://www.36605558.com/index.php)
-2.url(http://api.bbbbbb.me/jx)
+1.url(http://api.bbbbbb.me/jx)
+2.url(http://www.36605558.com/index.php)
 3.url(http://bofang.online)
 
 其它信息：
@@ -23,4 +23,10 @@ http://bofang.online
 alert(elements[0].innerHTML);
 
 https://blog.csdn.net/c327044572/article/details/80013316
+
+//jx.wawakj.top/?url=
+//www.7usp.com/mfjx/?url=
+//jx.itaoju.top/?url=
+//api.1f6f.cn/?url
+//api.bbbbbb.me/jx/?url=
 
