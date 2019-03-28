@@ -1,4 +1,4 @@
-1.url(http://api.bbbbbb.me/jx)
+1.url(https://api.sigujx.com)
 2.url(http://www.36605558.com/index.php)
 3.url(http://bofang.online)
 
@@ -29,4 +29,6 @@ https://blog.csdn.net/c327044572/article/details/80013316
 //jx.itaoju.top/?url=
 //api.1f6f.cn/?url
 //api.bbbbbb.me/jx/?url=
+
+http://api.bbbbbb.me/jx
 
