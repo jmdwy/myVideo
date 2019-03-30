@@ -2,6 +2,12 @@
 2.url(http://www.36605558.com/index.php)
 3.url(http://bofang.online)
 
+1.intercept(.cn)
+2.intercept(daokejs)
+3.intercept(无)
+4.intercept(无)
+5.intercept(无)
+
 其它信息：
 
 https://yun.odflv.com
