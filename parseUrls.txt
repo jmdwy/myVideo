@@ -3,7 +3,7 @@
 3.url(http://bofang.online)
 
 1.intercept(.cn)
-2.intercept(daokejs)
+2.intercept(daokejs1)
 3.intercept(无)
 4.intercept(无)
 5.intercept(无)
