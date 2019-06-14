@@ -1,6 +1,6 @@
-1.url(http://vip.6666txt.com)
+1.url(https://api.sigujx.com)
 2.url(http://www.36605558.com/index.php)
-3.url(http://fateg.xyz)
+3.url(http://bofang.online)
 
 1.intercept(.cn)
 2.intercept(nijiua)
