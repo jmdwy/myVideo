@@ -1,6 +1,6 @@
-1.url(https://api.sigujx.com)
+1.url(http://jx.hao0606.com)
 2.url(http://www.36605558.com/index.php)
-3.url(http://bofang.online)
+3.url(http://www.lexiangsj.xyz)
 
 1.intercept(.cn)
 2.intercept(nijiua)
@@ -9,6 +9,9 @@
 5.intercept(无)
 
 其它信息：
+
+https://api.sigujx.com
+http://bofang.online
 
 https://yun.odflv.com
 http://jiexi.071811.cc/jx2.php
